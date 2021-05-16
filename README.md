@@ -6,3 +6,11 @@ Predict and apply masks over the faces within images using CNN and image recogni
 
 Skills and Tools:
 Computer Vision, CNN, Transfer Learning, Object detection
+
+Dataset: 
+
+WIDER Face Dataset
+
+* WIDER FACE dataset is a face detection benchmark dataset, of which images are selected from the publicly available WIDER dataset.
+* This data has 32,203 images and 393,703 faces are labelled with a high degree of variability in scale, pose and occlusion as depicted in the sample images.
+* In this project, we are using 409 images and around 1000 faces for ease of computation.
