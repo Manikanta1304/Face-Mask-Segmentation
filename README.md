@@ -7,6 +7,9 @@ Predict and apply masks over the faces within images using CNN and image recogni
 Skills and Tools:
 Computer Vision, CNN, Transfer Learning, Object detection
 
+Context:
+Used transfer learning on an already trained model. Used the MobileNet model which is already trained to detect the face attributes. We will need to train the last 6-7 layers and freeze the remaining layers to train the model for predicting the mask on the face. To be able to train the MobileNet model, we will be using the WIDER FACE dataset for various images with a single face and multiple faces.
+
 Dataset: 
 
 WIDER Face Dataset
