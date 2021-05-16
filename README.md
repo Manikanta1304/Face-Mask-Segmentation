@@ -13,6 +13,7 @@ Used transfer learning on an already trained model. Used the MobileNet model whi
 Dataset: 
 
 WIDER Face Dataset
+Acknowledgement for the dataset: http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/ (link to download the dataset)
 
 * WIDER FACE dataset is a face detection benchmark dataset, of which images are selected from the publicly available WIDER dataset.
 * This data has 32,203 images and 393,703 faces are labelled with a high degree of variability in scale, pose and occlusion as depicted in the sample images.
